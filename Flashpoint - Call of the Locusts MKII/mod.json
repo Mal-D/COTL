@@ -2,9 +2,9 @@
     "Name": "Flashpoint_CallOfTheLocusts",
     "Enabled": true,
 	
-    "Version": "4.3.0-Release",
+    "Version": "4.4.0-Release",
 
-    "Author": "MalD",
+    "Author": "Mal-D",
 
     "DependsOn": ["BTR-Overrides","ColourfulFlashPoints"],
     "ConflictsWith": [],
