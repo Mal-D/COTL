@@ -246,7 +246,7 @@
                     "Description" : {
                         "Id" : "outcome_0_3",
                         "Name" : "Argo sustains heavy damage",
-                        "Details" : "\"Battle Stations, what are you waiting for?  A bloody invitation? Laser battery what the shit are you doing?  Scan and open fire.\" \r\nBut the Argo shudders under an explosive impact.\r\n\"That was the forward laser battery, Commander,\" came Sumire's voice over the speakers. \"We've taken damage Commander {Commander.LastName} and telemetry indicates a <i>Pirannah</i> missle fired from the surface.\"\r\n\r\nDr Murad's frantic voice errupts from the speakers.\r\n\r\n\"Commander we've taken damage and we're venting atmosphere into space.\"\r\n\"Are there any casualities?\"\r\n\"Commander {Commander.LastName}, we've taken damage in the habitation pods. We tried to get everyone out.\r\nshe trails off..., but, not all made it. I'm  very sorry Commander, [[SCN_MW,{SCN_MW.Callsign}]] has died.",
+                        "Details" : "\"Battle Stations, what are you waiting for?  A bloody invitation? Laser battery what the shit are you doing?  Scan and open fire.\" \r\n\r\nBut the Argo shudders under an explosive impact.\r\n\"That was the forward laser battery, Commander,\" came Sumire's voice over the speakers. \"We've taken damage Commander {Commander.LastName} and telemetry indicates a <i>Pirannah</i> missle fired from the surface.\"\r\n\r\nDr Murad's frantic voice errupts from the speakers.\r\n\r\n\"Commander we've taken damage and we're venting atmosphere into space.\"\r\n\"Are there any casualities?\"\r\n\"Commander {Commander.LastName}, we've taken damage in the habitation pods. We tried to get everyone out.\r\nshe trails off..., but, not all made it. I'm  very sorry Commander, [[SCN_MW,{SCN_MW.Callsign}]] has died.",
                         "Icon" : null
                     },
                     "Weight" : 25,
@@ -340,7 +340,7 @@
                     "Description" : {
                         "Id" : "outcome_1_0",
                         "Name" : "Battery successful",
-                        "Details" : "\"Battle Stations, what are you waiting for?  A bloody invitation? Laser battery what the shit are you doing?  Scan and open fire.\" \r\n\"Forward laser battery engaged, Commander,\" came Sumire's voice over the speakers. \"Sensors have picked up an explosion and telemetry indicates a <i>Pirannah</i> missle fired from the surface.\"\r\n\r\n\"Good Shooting. We were lucky, that time. Let's not sit round too much longer.\"",
+                        "Details" : "\"Battle Stations, what are you waiting for?  A bloody invitation? Laser battery what the shit are you doing?  Scan and open fire.\" \r\n\r\n\"Forward laser battery engaged, Commander,\" came Sumire's voice over the speakers. \"Sensors have picked up an explosion and telemetry indicates a <i>Pirannah</i> missle fired from the surface.\"\r\n\r\n\"Good Shooting. We were lucky, that time. Let's not sit round too much longer.\"",
                         "Icon" : null
                     },
                     "Weight" : 25,

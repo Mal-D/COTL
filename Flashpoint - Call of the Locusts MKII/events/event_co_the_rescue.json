@@ -2,7 +2,7 @@
     "Description" : {
         "Id" : "event_co_the_rescue",
         "Name" : "Hero comes a'Charging",
-        "Details" : "Change of plan Commander {COMMANDER.LastName},  This image appears we have a shared adversary. We have good information that this image was very recently sent from some backwater planet,someones 'Sacrifice'.\r\n\r\nIt is the last known location we have on Miss Black and we need you to mount a rescue as she has valuable information the [[DM.BaseDescriptionDefs[LoreSilentChapter],Silent Chapter]] requires. \r\n\r\nThis is not a usual rescue as we don\u2019t quite know where on the planet she is located but, we do know the point of transmission where this image originated. \r\n\r\nWe are sending you on an extended deployment with no time to do your nails and ponder your navel.  \r\n\r\nFirst, we have to locate her.  We need you to hack the base information core to find out their plans for her are.",
+        "Details" : "Change of plan Commander {COMMANDER.LastName},  This image appears we have a shared adversary. We have good information that this image was sent from some backwater planet,  'McEvans' Sacrifice'.\r\n\r\nIt is the last known location we have on Miss Black and we need you to mount a rescue as she has valuable information the [[DM.BaseDescriptionDefs[LoreSilentChapter],Silent Chapter]] requires. \r\n\r\nThis is not a usual rescue as all we have is the point of transmission where this image originated. \r\n\r\nWe are sending you on an extended deployment with no time to do your nails and ponder your navel.  \r\n\r\nFirst, we have to locate her.  We need you to hack the base information core to find out their plans for her are.",
         "Icon" : "uixTxrSpot_Prisioner.png"
     },
     "Scope" : "Company",
