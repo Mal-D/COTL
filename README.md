@@ -3,6 +3,9 @@
 
 The Commander is bidden by an old flame to help but, soon is mired in a deepening intrigue. This is a three Flashpoint campaign designed for the early game of HBS's BAttletech. Buckle in for a early game wild ride.
 
+![Locust Nest](https://github.com/Mal-D/Mal-D/blob/main/LocustNest.png)
+
+
 #### v4.4.0-Release
 1. Initiated Project to track necessary work.
    - Images in several conversations.
